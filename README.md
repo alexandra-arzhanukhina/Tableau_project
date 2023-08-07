@@ -1,4 +1,9 @@
 # Расчет премий сотрудникам
+
+Готовый дашборд - доступен [по ссылке](https://public.tableau.com/views/Projectlesson3/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+
+![image](https://github.com/alexandra-arzhanukhina/Tableau_project/assets/128599734/c7102741-21cd-45a3-bcdd-a1f25489cb1e)
+
 Основная метрика для оценки сотрудников – `performance rating` (далее рейтинг), он может принимать значения от 1 до 4. 
 - 1 — плохая работа
 - 2 — в рамках ожиданий
@@ -41,7 +46,3 @@
 - `YearsInCurrentRole`	- Количество лет в текущей должности
 - `YearsSinceLastPromotion`	- Количество лет с даты последнего повышения
 - `YearsWithCurrManager`	- Количество лет вместе с текущим менеджером
-
-Готовый дашборд - доступен [по ссылке](https://public.tableau.com/views/Projectlesson3/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
-
-![image](https://github.com/alexandra-arzhanukhina/Tableau_project/assets/128599734/c7102741-21cd-45a3-bcdd-a1f25489cb1e)
