@@ -2,6 +2,10 @@
 
 Готовый дашборд - доступен [по ссылке](https://public.tableau.com/views/Projectlesson3/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
+## Dashboard Canvas:
+ ![image](https://github.com/alexandra-arzhanukhina/Tableau_project/assets/128599734/99b9de8c-8cfe-4219-b654-efeac23039a9)
+
+## Dashboard:
 ![image](https://github.com/alexandra-arzhanukhina/Tableau_project/assets/128599734/c7102741-21cd-45a3-bcdd-a1f25489cb1e)
 
 Основная метрика для оценки сотрудников – `performance rating` (далее рейтинг), он может принимать значения от 1 до 4. 
